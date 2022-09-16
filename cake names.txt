@@ -1,0 +1,9 @@
+product-1 Chocolate Loaded cake
+product-2 Red velvet cake
+product-3 Kitkat overloaded cake
+product-4 Mouthwatering Mango nest cake
+product-5 Customised cupcakes
+product-6 Blueberry cake
+product-7 butterscotch cake
+product-8 Chocolate Fudge Cake
+product-9 Ferrero Rocher cake!
